@@ -9,7 +9,7 @@ int main(){
   int resp;
   float total;
 
-  printf("Digite o valor da soma das suas 2 melhores provas: ");
+  printf("Digite o valor da soma de suas 2 melhores provas: ");
   scanf("%d", &P);
   printf("Digite a média dos TPs: ");
   scanf("%d", &Tp);
